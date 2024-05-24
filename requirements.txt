@@ -4,3 +4,4 @@ sentence-transformers
 lmdb
 pymupdf
 streamlit
+-e .
