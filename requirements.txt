@@ -5,3 +5,4 @@ lmdb
 pymupdf
 streamlit
 -e .
+faiss-cpu
