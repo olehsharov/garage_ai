@@ -1,0 +1,6 @@
+# PyPDF2
+pinecone-client
+sentence-transformers
+lmdb
+pymupdf
+streamlit
